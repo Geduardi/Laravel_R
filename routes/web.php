@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/home', function(){
-    echo "<h1>Home page</h1>";
+    echo "<h1>Home page</h1> ";
 });
 
 
