@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfc33aae-a1a9-47bd-8683-a40fff742631" name="Default Changelist" comment="" />
+    <list default="true" id="cfc33aae-a1a9-47bd-8683-a40fff742631" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/category_news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -17,6 +28,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -129,6 +143,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jQtArYmMsraBaQEU632An1c7ny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -137,6 +154,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -154,6 +172,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603748002622</updated>
       <workItem from="1603748003680" duration="1493000" />
+      <workItem from="1603911315804" duration="4223000" />
+      <workItem from="1604023634173" duration="4727000" />
     </task>
     <servers />
   </component>
@@ -177,5 +197,13 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1864" height="257" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1603748991376" />
+    <state x="749" y="419" key="NewPhpFileDialog" timestamp="1604024653136">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="749" y="419" key="NewPhpFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604024653136" />
+    <state x="343" y="56" key="SettingsEditor" timestamp="1604028224246">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="343" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1604028224246" />
   </component>
 </project>
