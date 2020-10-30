@@ -8,10 +8,9 @@ use Illuminate\Http\Request;
 class CategoryController extends Controller
 {
     public function all(){
-        return view('category');
+        return view('category', [
+            'categories' => $this->categories,
+        ]);
     }
 
-    public function allByCategory(){
-        return view('category_news');
-    }
 }

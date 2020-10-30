@@ -15,16 +15,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/welcome', function () {
     return view('welcome');
 });
 
-Route::get('/home', function(){
-    return view('main');
+Route::get('/', function(){
+    return view('home');
 })->name('home');
 
 
-Route::get('/news/category/{categoryId}', [CategoryController::class, 'allByCategory'])->name('news');
+Route::get('/news/category/{categoryId}', [NewsController::class, 'allByCategory'])->name('category.news');
 
 Route::get('/news/{id}', [NewsController::class, 'one'])->name('news.id');
 
