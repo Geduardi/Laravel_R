@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfc33aae-a1a9-47bd-8683-a40fff742631" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/category_news.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/news.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/NewsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/NewsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/category.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/category_news.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/category_news.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/news.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
     </list>
@@ -157,6 +157,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\laravel_R\resources\views\layouts" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -173,7 +178,7 @@
       <updated>1603748002622</updated>
       <workItem from="1603748003680" duration="1493000" />
       <workItem from="1603911315804" duration="4223000" />
-      <workItem from="1604023634173" duration="4727000" />
+      <workItem from="1604023634173" duration="7302000" />
     </task>
     <servers />
   </component>
@@ -197,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1864" height="257" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1603748991376" />
-    <state x="749" y="419" key="NewPhpFileDialog" timestamp="1604024653136">
+    <state x="749" y="419" key="NewPhpFileDialog" timestamp="1604030096115">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="749" y="419" key="NewPhpFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604024653136" />
+    <state x="749" y="419" key="NewPhpFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604030096115" />
     <state x="343" y="56" key="SettingsEditor" timestamp="1604028224246">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
